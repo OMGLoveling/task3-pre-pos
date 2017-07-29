@@ -34,7 +34,7 @@ git clone repo_of_this_template
 NOTE：如果提示git命令未找到请先阅读参考资料
 - 用任意编辑器打开clone下来的文件夹，内部会存在两个文件夹
 ```
-spec  //测试文件夹
+spec  //测试文件夹-pre-pos
 src   //源文件
 ```
 `请在src文件下的main.js文件内实现main函数`
